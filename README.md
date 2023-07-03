@@ -1,6 +1,3 @@
 # instcrack.github.io
 
----
-layout: forward
-target: https://example.com
----
+<meta http-equiv="refresh" content="1;url=http://instcrack.com/" />
